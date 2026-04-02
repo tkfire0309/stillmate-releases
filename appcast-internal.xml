@@ -6,6 +6,19 @@
     <description>Stillmate internal release channel</description>
     <language>ja</language>
     <item>
+      <title>Version 0.5.0</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>セキュリティ強化・環境分離・配布インフラ整備</p>]]></description>
+      <pubDate>Wed, 02 Apr 2026 10:30:00 +0900</pubDate>
+      <enclosure
+        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.5.0/Stillmate-0.5.0.dmg"
+        sparkle:edSignature="qLGgHYvQEso7MXRB6WBPXAI2CTrGTA+spb538TPtasu8k+kyhnGJGsvQlHoi7f5wclKIsSC4n/yuAdwFNiU5Aw=="
+        length="25912762"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.4.2</title>
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
