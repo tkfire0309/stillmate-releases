@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Stillmate Updates</title>
+    <link>https://raw.githubusercontent.com/tkfire0309/stillmate-releases/main/appcast.xml</link>
+    <description>Stillmate release notes</description>
+    <language>ja</language>
+    <item>
+      <title>Version 0.4.1</title>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>セキュリティ強化・開発環境分離・Windowメニュー整理</p>]]></description>
+      <pubDate>Wed, 02 Apr 2026 09:20:00 +0900</pubDate>
+      <enclosure
+        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.4.1/Stillmate-0.4.1.dmg"
+        sparkle:edSignature="kga8IAJxnMORKd0wXPezFr/8clJX8LXmtTGFYpK7V/BJjLD12mwZZ1KZWDi8EiAtCL299Q+FPbSLB51bgZFiCw=="
+        length="25915885"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
