@@ -6,16 +6,16 @@
     <description>Stillmate internal release channel</description>
     <language>ja</language>
     <item>
-      <title>Version 0.7.0</title>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <title>Version 0.7.1</title>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>ライセンスキー認証を追加。起動時にライセンスキーを入力して購入を確認するフローを導入</p><p>Added license key authentication. Enter your license key on launch to verify purchase</p>]]></description>
-      <pubDate>Fri, 04 Apr 2026 00:30:00 +0900</pubDate>
+      <description><![CDATA[<p>ライセンスキー認証 + 3日間無料トライアル（サーバー管理）</p><p>License key authentication + 3-day free trial (server-managed)</p>]]></description>
+      <pubDate>Fri, 04 Apr 2026 01:30:00 +0900</pubDate>
       <enclosure
-        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.7.0/Stillmate-0.7.0.dmg"
-        sparkle:edSignature="KD58cuxgRZ1daICHrR6lPulWm8MwXJ40HnLmVKswBKKJhM/BG5luhw1xzcP9leRN0NP4/p8Lqyf7KXZOcOrIBg=="
-        length="23274507"
+        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.7.1/Stillmate-0.7.1.dmg"
+        sparkle:edSignature="7E6VA6RAbXywVB8WAlwN5p744F++2SN0cFp1fRamhHdue3MlEqLCwOYNrSNZjwnG8YhK322Pq04KmRJNp8O1Dw=="
+        length="23312251"
         type="application/octet-stream" />
     </item>
   </channel>
