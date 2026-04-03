@@ -6,6 +6,19 @@
     <description>Stillmate release notes</description>
     <language>ja</language>
     <item>
+      <title>Version 0.6.1</title>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>アプリアイコン追加、DMGインストーラーデザイン改善</p><p>Custom app icon, improved DMG installer design</p>]]></description>
+      <pubDate>Thu, 03 Apr 2026 16:30:00 +0900</pubDate>
+      <enclosure
+        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.6.1/Stillmate-0.6.1.dmg"
+        sparkle:edSignature="maGklE5JO6CIV3PpF7mjshwo59ADZBUtt5IvDC6xEu7l26dt2nsGSO0OdE25PxpQ3Ak+HKW/hbLNCYoXBYJDCA=="
+        length="23223349"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.6.0</title>
       <sparkle:version>8</sparkle:version>
       <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
