@@ -6,6 +6,19 @@
     <description>Stillmate release notes</description>
     <language>ja</language>
     <item>
+      <title>Version 0.6.0</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>RAW変換パイプライン (RAF/CR3→ACEScg TIFF)、アスペクト比セレクター改善、Cmd+C/Vノードコピペ、欠損クリップ検出</p>]]></description>
+      <pubDate>Thu, 03 Apr 2026 15:00:00 +0900</pubDate>
+      <enclosure
+        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.6.0/Stillmate-0.6.0.dmg"
+        sparkle:edSignature="b9ebFDyRoyuC1joEmsRS6RQwDQ0GuQcVh9GQ+yNQGwJOSwyi4ZpdVZaUrWZm9lCplWAwFC3ms52DbdRn7WXfDQ=="
+        length="26052201"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.5.0</title>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
