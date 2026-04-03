@@ -6,68 +6,16 @@
     <description>Stillmate release notes</description>
     <language>ja</language>
     <item>
-      <title>Version 0.6.1</title>
+      <title>Version 0.7.0</title>
       <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>アプリアイコン追加、DMGインストーラーデザイン改善</p><p>Custom app icon, improved DMG installer design</p>]]></description>
-      <pubDate>Thu, 03 Apr 2026 16:30:00 +0900</pubDate>
+      <description><![CDATA[<p>ライセンスキー認証を追加。起動時にライセンスキーを入力して購入を確認するフローを導入</p><p>Added license key authentication. Enter your license key on launch to verify purchase</p>]]></description>
+      <pubDate>Fri, 04 Apr 2026 00:30:00 +0900</pubDate>
       <enclosure
-        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.6.1/Stillmate-0.6.1.dmg"
-        sparkle:edSignature="maGklE5JO6CIV3PpF7mjshwo59ADZBUtt5IvDC6xEu7l26dt2nsGSO0OdE25PxpQ3Ak+HKW/hbLNCYoXBYJDCA=="
-        length="23223349"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.6.0</title>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>RAW変換パイプライン (RAF/CR3→ACEScg TIFF)、アスペクト比セレクター改善、Cmd+C/Vノードコピペ、欠損クリップ検出</p><p>RAW conversion pipeline (RAF/CR3→ACEScg TIFF), aspect ratio selector improvements, Cmd+C/V node copy/paste, missing clip detection</p>]]></description>
-      <pubDate>Thu, 03 Apr 2026 15:00:00 +0900</pubDate>
-      <enclosure
-        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.6.0/Stillmate-0.6.0.dmg"
-        sparkle:edSignature="b9ebFDyRoyuC1joEmsRS6RQwDQ0GuQcVh9GQ+yNQGwJOSwyi4ZpdVZaUrWZm9lCplWAwFC3ms52DbdRn7WXfDQ=="
-        length="26052201"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.5.0</title>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>セキュリティ強化・環境分離・配布インフラ整備</p>]]></description>
-      <pubDate>Wed, 02 Apr 2026 10:30:00 +0900</pubDate>
-      <enclosure
-        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.5.0/Stillmate-0.5.0.dmg"
-        sparkle:edSignature="qLGgHYvQEso7MXRB6WBPXAI2CTrGTA+spb538TPtasu8k+kyhnGJGsvQlHoi7f5wclKIsSC4n/yuAdwFNiU5Aw=="
-        length="25912762"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.4.2</title>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Sparkleアップデートテスト</p>]]></description>
-      <pubDate>Wed, 02 Apr 2026 10:00:00 +0900</pubDate>
-      <enclosure
-        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.4.2/Stillmate-0.4.2.dmg"
-        sparkle:edSignature="KDtplD5R9zmWWA3a96pUqKCo/IJaASO+dWFN7cQ9ZbkILsnqFsL3jr+DiPNDbwVAq1W+9OLpVh7wpgx0m1DCBw=="
-        length="25912850"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.4.1</title>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>セキュリティ強化・開発環境分離・Windowメニュー整理</p>]]></description>
-      <pubDate>Wed, 02 Apr 2026 09:20:00 +0900</pubDate>
-      <enclosure
-        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.4.1/Stillmate-0.4.1.dmg"
-        sparkle:edSignature="kga8IAJxnMORKd0wXPezFr/8clJX8LXmtTGFYpK7V/BJjLD12mwZZ1KZWDi8EiAtCL299Q+FPbSLB51bgZFiCw=="
-        length="25915885"
+        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.7.0/Stillmate-0.7.0.dmg"
+        sparkle:edSignature="KD58cuxgRZ1daICHrR6lPulWm8MwXJ40HnLmVKswBKKJhM/BG5luhw1xzcP9leRN0NP4/p8Lqyf7KXZOcOrIBg=="
+        length="23274507"
         type="application/octet-stream" />
     </item>
   </channel>
