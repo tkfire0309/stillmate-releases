@@ -6,16 +6,16 @@
     <description>Stillmate release notes</description>
     <language>ja</language>
     <item>
-      <title>Version 0.7.1</title>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <title>Version 0.7.2</title>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>ライセンスキー認証 + 3日間無料トライアル（サーバー管理）</p><p>License key authentication + 3-day free trial (server-managed)</p>]]></description>
-      <pubDate>Fri, 04 Apr 2026 01:30:00 +0900</pubDate>
+      <description><![CDATA[<p>devicesテーブル統合、台数制限対応、デバイス情報送信</p><p>Unified devices table, device limit enforcement, device info reporting</p>]]></description>
+      <pubDate>Fri, 04 Apr 2026 15:20:00 +0900</pubDate>
       <enclosure
-        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.7.1/Stillmate-0.7.1.dmg"
-        sparkle:edSignature="7E6VA6RAbXywVB8WAlwN5p744F++2SN0cFp1fRamhHdue3MlEqLCwOYNrSNZjwnG8YhK322Pq04KmRJNp8O1Dw=="
-        length="23312251"
+        url="https://github.com/tkfire0309/stillmate-releases/releases/download/v0.7.2/Stillmate-0.7.2.dmg"
+        sparkle:edSignature="AKfH3w6yFyE0Okx18YfBFgbgMxcmRU6Rh6kYsS+4w/bSn4w03jbcEckp+d2Rlv9TwL9SEdylGFzdxp6Gp/lnAA=="
+        length="23315343"
         type="application/octet-stream" />
     </item>
   </channel>
