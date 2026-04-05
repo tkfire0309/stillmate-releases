@@ -3,19 +3,19 @@
   <channel>
     <title>Stillmate Updates</title>
     <link>https://raw.githubusercontent.com/tkfire0309/stillmate-releases/main/appcast.xml</link>
-    <description>Stillmate release notes</description>
+    <description>Stillmate release channel</description>
     <language>ja</language>
     <item>
-      <title>Version 0.7.3</title>
-      <sparkle:version>12</sparkle:version>
-      <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+      <title>Version 0.7.4</title>
+      <sparkle:version>SUFeedURL:https://raw.githubusercontent.com/tkfire0309/stillmate-releases/main/appcast.xml</sparkle:version>
+      <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>DMGファイル名固定、devicesテーブル統合対応</p><p>Fixed DMG filename, unified devices table support</p>]]></description>
-      <pubDate>Fri, 04 Apr 2026 15:30:00 +0900</pubDate>
+      <description><![CDATA[<p>v0.7.4</p>]]></description>
+      <pubDate>Sun, 05 Apr 2026 13:12:18 +0900</pubDate>
       <enclosure
         url="https://github.com/tkfire0309/stillmate-releases/releases/latest/download/Stillmate.dmg"
-        sparkle:edSignature="jtx0EghjvvnhSbGDQ4oeCRIDYSfsRqFZ91G283BaGK2arwQHwyiH6puUbeKSF/GQMFmJaWrQAdIuEZQrrrbcBw=="
-        length="23315336"
+        sparkle:edSignature="FlDN4zKQVgFxgH9u3LIf0nQzWVhyTAZ7w2sN05w9qKk117Nsjf3mpCxqZsdn5nWG0fUouTWDJCzC+knG8cM2Bw=="
+        length="23315287"
         type="application/octet-stream" />
     </item>
   </channel>
