@@ -10,7 +10,10 @@
       <sparkle:version>SUFeedURL:https://raw.githubusercontent.com/tkfire0309/stillmate-releases/main/appcast.xml</sparkle:version>
       <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>v0.8.0</p>]]></description>
+      <description><![CDATA[
+<p>安定性の向上</p>
+<p>Stability improvements</p>
+]]></description>
       <pubDate>Sun, 05 Apr 2026 19:58:28 +0900</pubDate>
       <enclosure
         url="https://github.com/tkfire0309/stillmate-releases/releases/latest/download/Stillmate.dmg"
