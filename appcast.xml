@@ -6,19 +6,19 @@
     <description>Stillmate release channel</description>
     <language>ja</language>
     <item>
-      <title>Version 0.9.6</title>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
+      <title>Version 0.9.7</title>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <p>安定性の向上</p>
 <p>Stability improvements</p>
 ]]></description>
-      <pubDate>Fri, 10 Apr 2026 22:53:12 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 23:59:56 +0900</pubDate>
       <enclosure
         url="https://github.com/tkfire0309/stillmate-releases/releases/latest/download/Stillmate.dmg"
-        sparkle:edSignature="oG9b8qPdORr7ARDiLuFEF2G1l41cI7BoLvut2+OFfPuOJsilAnCXNJs0eaT+zblJMtYRbqRlW9pb/Ov3cdPkBA=="
-        length="22276814"
+        sparkle:edSignature="GNNsZjh3jxroSegpH2wIU1wryRr/nHa4HCHWhShLPVd8gV/KQ4Gv2NvvRNJSvyNVM8nJS6w2/5wztwDJmyMHDA=="
+        length="22277563"
         type="application/octet-stream" />
     </item>
   </channel>
